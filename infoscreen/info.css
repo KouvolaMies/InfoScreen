@@ -55,12 +55,8 @@ header{
 }
 #qrcode{
     position: absolute;
-    bottom: 700px;
-    margin-right: 10px;
-    color: red;
-    margin-left: 610px;
-    background-color: black;
-    font-size: 150%;
+    bottom: 500px;
+    right: 110px;
 }
 .MinersHelmet{
     position: absolute;
